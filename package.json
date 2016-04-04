@@ -1,0 +1,19 @@
+{
+  "name": "hexo-filter-srcset",
+  "version": "0.1.0",
+  "description": "hexo &lt;img&gt; srcset 扩展",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/52cik/hexo-filter-srcset.git"
+  },
+  "author": "52cik <fe.52cik@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/52cik/hexo-filter-srcset/issues"
+  },
+  "homepage": "https://github.com/52cik/hexo-filter-srcset#readme"
+}
